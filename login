@@ -8,7 +8,7 @@ echo "
   
 
 
-echo "  Made by ROHIT VI with love ------- SUBSCRIBE my channel DEV RK
+echo "  Made by MOSES with love -------
 
               ██╗  ██╗ █████╗  █████╗ ██╗  ██╗███████╗██████╗
               ██║  ██║██╔══██╗██╔══██╗██║ ██╔╝██╔════╝██╔══██╗
@@ -18,7 +18,7 @@ echo "  Made by ROHIT VI with love ------- SUBSCRIBE my channel DEV RK
               ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
                                                         "|lolcat
 
-echo " CREATOR is DEV RK with your love... 
+echo " CREATOR is MOSES with your love... 
      ━━━━━━━━━━━━━━━━━━━━━━━━━ [★] W E L C O M E [★] ━━━━━━━━━━━━━━━━━━━━━━━━
 
                               " |lolcat
