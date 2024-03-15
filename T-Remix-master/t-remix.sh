@@ -1,8 +1,8 @@
 #!/data/data/com.termux/files/usr/bin/bash
 ######################################
 #        PROJECT: T-Remix            #
-#        Author: ARIJ ARMAN          #
-#  email: mrxanonymous633@gmailcom   #
+#        Author: CM MOSES            #
+#  email: cmmoses@gmailcom           #
 ######################################
 
 #Installing the following packages to install T-Remix
@@ -50,7 +50,7 @@ echo "
 echo " "
 echo " "
 echo " 
-       <─────────────── [ Re-Coded by =*•.¸♡ARIJ ARMAN♡¸.•* ] ───────────────>            
+       <─────────────── [ Re-Coded by =*•.¸♡MOSES♡¸.•* ] ───────────────>            
                                                                " |lolcat
 
 
@@ -173,7 +173,7 @@ echo " "
 
 echo " "
 echo "
-        <─────────────── [Re-Coded by *•.¸♡ARIJ ARMAN♡¸.•* ] ───────────────>              
+        <─────────────── [Re-Coded by *•.¸♡MOSES♡¸.•* ] ───────────────>              
                             " |lolcat
 
 echo " "
@@ -207,7 +207,7 @@ tput cup 17 23
     echo -e "\x1b[41m Please subsrcibe my channel for hacking tutorial \x1b[m"
 fi
 tput cup 20 0
-figlet -f slant "ARIJ ARMAN's TECH KNOW LINUX" |lolcat
+figlet -f slant "MOSES's TECH KNOW LINUX" |lolcat
 echo " "
 echo " "
 #done setting up
